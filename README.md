@@ -1,2 +1,2 @@
 # PyIDI
-Pronounced like pidi, this is a basic MIDI music creation tool written in python. 
+PyIDI (pronounced like pity with a d) is a basic MIDI music creation tool written in python. MIDI data can be created, played back within the program, and read.
